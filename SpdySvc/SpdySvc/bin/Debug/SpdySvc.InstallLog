@@ -1,0 +1,646 @@
+﻿Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Service SpeedyService has been successfully installed.
+Creating EventLog source SpeedyService in log Application...
+Committing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+Service SpeedyService is being removed from the system...
+Service SpeedyService was successfully removed from the system.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Service SpeedyService has been successfully installed.
+Creating EventLog source SpeedyService in log Application...
+Committing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.
+Uninstalling assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Removing EventLog source SpeedyService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Installing service SpeedyService...
+Creating EventLog source SpeedyService in log Application...
+Rolling back assembly 'D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+   logfile = D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.InstallLog
+Restoring event log to previous state for source SpeedyService.

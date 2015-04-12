@@ -1,0 +1,19 @@
+E:\rahul\Test Pro\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe.config
+E:\rahul\Test Pro\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+E:\rahul\Test Pro\SpdySvc\SpdySvc\bin\Debug\SpdySvc.pdb
+E:\rahul\Test Pro\SpdySvc\SpdySvc\bin\Debug\DBManager.dll
+E:\rahul\Test Pro\SpdySvc\SpdySvc\bin\Debug\DBManager.pdb
+E:\rahul\Test Pro\SpdySvc\SpdySvc\obj\Debug\SpdySvc.csprojResolveAssemblyReference.cache
+E:\rahul\Test Pro\SpdySvc\SpdySvc\obj\Debug\SpdySvc.ProjectInstaller.resources
+E:\rahul\Test Pro\SpdySvc\SpdySvc\obj\Debug\SpdySvc.csproj.GenerateResource.Cache
+E:\rahul\Test Pro\SpdySvc\SpdySvc\obj\Debug\SpdySvc.exe
+E:\rahul\Test Pro\SpdySvc\SpdySvc\obj\Debug\SpdySvc.pdb
+D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe.config
+D:\SpdySvc\SpdySvc\obj\Debug\SpdySvc.exe
+D:\SpdySvc\SpdySvc\obj\Debug\SpdySvc.pdb
+D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.exe
+D:\SpdySvc\SpdySvc\bin\Debug\SpdySvc.pdb
+D:\SpdySvc\SpdySvc\bin\Debug\DBManager.pdb
+D:\SpdySvc\SpdySvc\obj\Debug\SpdySvc.csprojResolveAssemblyReference.cache
+D:\SpdySvc\SpdySvc\obj\Debug\SpdySvc.ProjectInstaller.resources
+D:\SpdySvc\SpdySvc\obj\Debug\SpdySvc.csproj.GenerateResource.Cache
